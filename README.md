@@ -1,5 +1,6 @@
 # CookieClient
 [![Discord](https://img.shields.io/discord/712755445550284871.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/xSukBcyd8m) [![Java CI with Gradle](https://github.com/IToncek/IToncekCLI/actions/workflows/gradle.yml/badge.svg?branch=main&event=release)](https://github.com/IToncek/IToncekCLI/actions/workflows/gradle.yml)
+
 CookieClient is a utility client for anarchy servers. Its a forge mod so you need forge to run it.
 <br>
 Currently supported versions: 1.12.2
